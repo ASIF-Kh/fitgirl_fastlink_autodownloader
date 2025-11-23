@@ -15,7 +15,7 @@ from selenium.webdriver.support import expected_conditions as EC
 class FF7Downloader(tk.Tk):
     def __init__(self):
         super().__init__()
-        self.title("Bulk Link Downloader")
+        self.title("Fitgirl FuckingFast.co Batch Downloader")
         self.geometry("900x880")
 
         self.link_vars = []  # Stores (URL, BooleanVar, Name) tuples
