@@ -181,13 +181,6 @@ You will see messages such as:
 - It updates during each file download
 - Shows partial progress for `.bin`, `.rar`, `.zip` files
 
-# **⚠️ Important Notes**
-
-- Captchas (if present) must be solved manually — the tool cannot bypass them.
-- Some mirrors block automation; in such cases the tool skips to the next one.
-- Do NOT close the Chrome window during download.
-- Make sure ChromeDriver matches your Chrome version.
-
 ---
 
 ## **⚙️ Supported Download Types**
