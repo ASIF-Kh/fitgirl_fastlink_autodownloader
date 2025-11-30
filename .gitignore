@@ -8,3 +8,4 @@ wheels/
 batch_downloads/
 # Virtual environments
 .venv
+links.txt
